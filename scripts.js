@@ -12,9 +12,13 @@ function cekKhodam() {
             'Pentil ban',
             'Gitar spanyol',
             'Knalpot racing',
-            'Penghuni Alam Gaib',
-            'Penerang Jalan Hidup',
-            'Penyembuh Hati dan Jiwa'
+            'kunti bogel',
+            'sepeda rongsok',
+            'suster ngentod',
+            'sapi beler',
+            'zeus selot',
+            'sabun bolong',
+            'wibu akut',
         ];
 
         // Pilih khodam secara acak dari daftar
